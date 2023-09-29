@@ -13,7 +13,7 @@ function App() {
       <button onClick={() => dispatch(increment(5))}>+</button>
       <button onClick={() => dispatch(decrement())}>-</button>
       
-      {isLoggedIn ? <h3> Log In to See</h3> : ''}
+      {isLoggedIn ? <h3> Log In to Seee</h3> : ''}
     </div>
   )
 }
